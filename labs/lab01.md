@@ -15,7 +15,7 @@ References:
     branches:
       - main
     paths:
-      - 'labs/**'
+      - 'labs/**'    
 ```
 3. Commit the workflow changes into the `main` branch
 4. Change a file inside the folder [labs](/labs)
